@@ -10,7 +10,3 @@ console.log(vehicles.getCheapestCar())
 console.log(vehicles.getCarByLetter('Y'))
 console.log(separator)
 vehicles.sortVehicles()
-
-
-
-// filteredCar = cars.reduce((max, game) => max.precio > game.precio ? max : game);
