@@ -18,9 +18,7 @@
     "url": "https://github.com/randrerd/work-challenge/issues"
   },
   "homepage": "https://github.com/randrerd/work-challenge#readme",
-  "dependencies": {
-    "express": "^4.17.1"
-  },
+  "dependencies": {},
   "devDependencies": {
     "nodemon": "^2.0.4"
   }
