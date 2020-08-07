@@ -36,6 +36,7 @@ function priceFormatting(object) {
   //Splits price amount to an array containing the integer and the decimals
   let arrayPrecio = object.precio.toString().split(".");
   let integer = arrayPrecio[0];
+  let integerArray;
   if (integer.length >= 6) {
     //If the price is over 100.000
     integerArray = integer.split("");
